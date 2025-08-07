@@ -1,5 +1,5 @@
 @echo off
-title GiftSniper
+title GiftSniper 
     if exist requirements.txt (
 		echo installing wheel for faster installing
 		pip install wheel
