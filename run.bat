@@ -1,4 +1,4 @@
-@echo off
+@echo off 
 title GiftSniper 
     if exist requirements.txt (
 		echo installing wheel for faster installing
