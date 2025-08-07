@@ -1,4 +1,4 @@
-# User settings
+# User settings 
 API_ID =
 API_HASH =
 PHONE_NUMBER =
@@ -20,4 +20,5 @@ RECEPIENT(channel/user) = @user
 BUY_MULTIPLE_GIFTS = True
 
 # Hide senders name
+
 HIDE_SENDER_NAME = True
